@@ -1,2 +1,14 @@
-# qr-code-generator
-A QR code generator that converts text or URLs into downloadable QR codes.
+# QR Code Generator
+
+A web application for generating QR codes from text and URLs.
+
+## Features
+
+- Generate QR codes
+- Download QR codes
+- Easy to use
+- Responsive design
+
+## Status
+
+🚧 Work in Progress
